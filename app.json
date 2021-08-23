@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "TREAZER",
+    "slug": "TREAZER",
+    "version": "1.0.0",
+    "scheme": "treazer",
+    "assetBundlePatterns": [
+      "assets/images/*"
+    ],
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyB8D28LJAtHK9LWH41DcKojPydVONuXkVM",
+          "authDomain": "treazer-app.firebaseapp.com",
+          "projectId": "treazer-app",
+          "storageBucket": "treazer-app.appspot.com",
+          "messagingSenderId": "233783824529",
+          "appId": "1:233783824529:web:16f3980751f730f44daf30",
+          "measurementId": "G-55YT6PYT2E"
+        }
+      }
+    }
+  }
+}

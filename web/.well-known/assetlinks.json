@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.firebaseapp.treazer_app.twa",
+               "sha256_cert_fingerprints": ["04:E4:3F:E8:0B:BE:09:82:14:53:07:3B:8A:33:A7:BD:7E:31:A4:09:38:D5:9B:38:B8:18:44:D5:9A:AC:1A:D3"] }
+}]

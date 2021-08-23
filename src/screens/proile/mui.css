@@ -1,0 +1,26 @@
+.MuiTabs-flexContainer {
+    display: flex;
+    justify-content: space-between;
+}
+.MuiFab-primary {
+    color: #607d8b;
+    background-color: #ffffff;
+}
+
+.MuiFab-primary:hover {
+    background-color: #ffffff;
+}
+.MuiFab-root {
+    width: 35px;
+    height: 25px;
+}
+.MuiList-root{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px
+}
+.MuiAppBar-root {
+    width: 90%;
+}
